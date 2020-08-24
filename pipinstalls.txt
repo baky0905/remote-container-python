@@ -1,0 +1,1 @@
+pip3 install pandas numpy autopep8 nltk plotly seaborn azure-storage-blob azure-identity azure-keyvault adal altair azure-datalake-store chardet ipykernel ipython ipywidgets jupyter matplotlib nbconvert pyjanitor python-dotenv requests scikit-learn scipy urllib3 pandas numpy wheel 
