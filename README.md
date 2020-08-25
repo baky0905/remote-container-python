@@ -12,7 +12,8 @@ Running VS Code inside a Docker container can be useful for many reasons, but in
 
 With VS Code Remote Containers, the advantages in regards to environment repeatability are massive [link](https://stelligent.com/2020/03/20/development-acceleration-through-vs-code-remote-containers-an-introduction/): 
 
-- Add Repeatability to Your IDE Setup
+- Add Repeatability to Your IDE Setup:
+
         - It is very easy to repeatedly provision the same coding environment in seconds.
         
         - The coding environment itself can easily be adjusted and configured all the while having the benefits of being version controlled alongside the rest of the project.
