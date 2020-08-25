@@ -54,4 +54,4 @@ ENV PYTHONDONTWRITEBYTECODE 1
 ENV PATH="/opt/venv/bin:$PATH"
 
 # Run python interpreter
-CMD ["python"]
+# CMD ["python"]
