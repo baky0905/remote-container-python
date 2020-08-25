@@ -14,8 +14,11 @@ With VS Code Remote Containers, the advantages in regards to environment repeata
 
 - Add Repeatability to Your IDE Setup
         - It is very easy to repeatedly provision the same coding environment in seconds.
+        
         - The coding environment itself can easily be adjusted and configured all the while having the benefits of being version controlled alongside the rest of the project.
+        
         - Whenever changes are made to the development environment, a developer can rebuild the container to have the newest changes and settings applied.
+        
         - It removes any versioning issues that can easily arise from installing items on different machines at different times.
         
 - Centralize and Manage VS Code Extensions Seamlessly
