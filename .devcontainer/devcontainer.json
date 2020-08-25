@@ -116,9 +116,6 @@
         "value": "#42b883"
       }
     ],
-    "[html]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     // ---------------- DEBUG
     "debug.internalConsoleOptions": "neverOpen",
     // ---------------- PYTHON DATASCIENCE
