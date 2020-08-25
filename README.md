@@ -34,35 +34,33 @@ You need to fulfil the following prerequisites, to use this feature:
 - Install Visual Studio Code
 - Install the Remote – Container extension
 
-## Install Docker
+## 1) Install Docker
 Docker is needed to create and manage your containers.
-
-## Docker Desktop
 Download and install [Docker Desktop](https://www.docker.com/products/docker-desktop). 
 
-## Equinor Managed Laptop
+## 2) Equinor Managed Laptop
 
 [Follow these instructions.](https://github.com/equinor/edc2019-docker)
 
-## Start Docker
+## 3) Start Docker
 Run the Docker Desktop application to start Docker. You will know it's running if you look in the activity tray and see the Docker whale icon.
 
 Docker might take a few minutes to start. If the whale icon is animated, it is probably still in the process of starting. You can click on the icon to see the status.
 
-## Install the extension
-The Remote - Containers extension lets you run Visual Studio Code inside a Docker container.
+## 4) Install Visual Studio Code
 
-## [Install the Remote - Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+## 5) Install the Remote - Containers extension for VS Code
+[The Remote - Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) lets you run Visual Studio Code inside a Docker container. 
 
-## Clone this github repo on your local machine under your home folder
+## 6) Clone this github repo on your local machine under your home folder
 
-git clone https://github.com/baky0905/remote-container-python.git
+`git clone https://github.com/baky0905/remote-container-python.git`
 
-## Share the location of your cloned repo(s) with Docker
+## 7) Share the location of your cloned repo(s) with Docker.
 
 Right-click on the Docker task bar item. On Windows, select the Settings menu item then Resources > File Sharing and check the drive(s) where your source code is located. On macOS, select the Preferences menu item then Resources > File Sharing and make sure the folder containing your source code is under a file path specified in the list.
 
-## CTRL + SHIFT + P and Remote-Containers: Open Folder in Container
+## 8) Open VS Code, CTRL + SHIFT + P and Remote-Containers: Open Folder in Container
 
 The Remote – Container extension provides several ways to develop in a container. You can find more information in the documentation, with several Quick start sections. In this post, I will focus on how to enable this feature for an existing local folder.
 
