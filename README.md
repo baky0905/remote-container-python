@@ -66,7 +66,7 @@ The Remote – Container extension provides several ways to develop in a contain
 
 As with all the other VS Code extensions, you also manage this with the Command Palette. You can either use the shortcut or the green button in the bottom left corner to open it. In the popup, search for Remote-Containers and select Open Folder in Container…
 
-open
+## For more info on the bigger picture check [this blog post](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 
 ```
 |   README.md
