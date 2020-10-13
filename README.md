@@ -38,9 +38,7 @@ You need to fulfil the following prerequisites, to use this feature:
 Docker is needed to create and manage your containers.
 Download and install [Docker Desktop](https://www.docker.com/products/docker-desktop). 
 
-## 2) Equinor Managed Laptop
-
-[Follow these instructions.](https://github.com/equinor/edc2019-docker)
+## 2) 
 
 ## 3) Start Docker
 Run the Docker Desktop application to start Docker. You will know it's running if you look in the activity tray and see the Docker whale icon.
